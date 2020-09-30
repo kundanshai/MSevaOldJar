@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Oracle WebLogic Server 11gR1 (10.3.6)_jdk JRE">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/DevEnviroment_01_07_2019/DataEntryApp/WebContent/WEB-INF/lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="D:/DevEnviroment_01_07_2019/.metadata/.plugins/oracle.eclipse.tools.weblogic/libraries/jettison_1.1_1.1/1/WEB-INF/lib/jettison_1.0.0.0_1-1.jar"/>
+	<classpathentry kind="lib" path="D:/DJBPortalRestApi/WebContent/WEB-INF/lib/jersey-bundle-1.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/DevEnviroment_01_07_2019/DataEntryApp/WebContent/WEB-INF/lib/http-core-4.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
